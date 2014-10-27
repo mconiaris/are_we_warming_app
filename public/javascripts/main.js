@@ -9,7 +9,6 @@ $(document).ready(function(){
 
     // CSV or path to a CSV file.
     "/data/usa_temps.csv"
-
   );
 
 });
